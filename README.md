@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi! I'm Attay! </h1>
 
-<img align="right" height="180" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
+<img align="right" height="180" src="https://media1.tenor.com/images/e38b75f9ceb27f5f032f5656158dde55/tenor"  />
 
 <div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Derik, but you can call me Attay<br>and chat with me here:</p>
   <a href="https://www.linkedin.com/in/derik-gomes-755b7936a/" target="_blank">
