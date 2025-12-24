@@ -2,7 +2,7 @@
 
 <img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fderik-dev&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="derik-dev-profile-views">
 
-<h1 align="left">Hi! I'm Attay! </h1>
+<h1 align="left">Hi! I'm Attay!</h1>
 
 <img align="right" height="180" src="https://media1.tenor.com/images/e38b75f9ceb27f5f032f5656158dde55/tenor"  />
 
