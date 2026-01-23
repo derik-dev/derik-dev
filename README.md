@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi! I'm Attay!</h1>
 
-<img align="right" height="180" src="[https://tenor.com/pt-BR/view/白鬼詛咒-yo-gif-9892804803312947127]" />
+<div class="tenor-gif-embed" data-postid="9892804803312947127" data-share-method="host" data-aspect-ratio="3.50704" data-width="100%"><a href="https://tenor.com/view/%E7%99%BD%E9%AC%BC%E8%A9%9B%E5%92%92-yo-gif-9892804803312947127">白鬼詛咒 Yo Sticker</a>from <a href="https://tenor.com/search/%E7%99%BD%E9%AC%BC%E8%A9%9B%E5%92%92+yo-stickers">白鬼詛咒 Yo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Derik, but you can call me Attay
   </a>
