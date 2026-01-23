@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi! I'm Attay!</h1>
 
-<img align="right" height="180" src="https://media1.tenor.com/images/e38b75f9ceb27f5f032f5656158dde55/tenor"  />
+<img align="right" height="180" src="(https://tenor.com/pt-BR/view/白鬼詛咒-yo-gif-9892804803312947127)"  />
 
 <div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Derik, but you can call me Attay
   </a>
