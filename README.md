@@ -6,7 +6,7 @@
 
 <img> src='[https://tenor.com/pt-BR/view/jujutsu-kaisen-jjk-yuta-gif-8473976251361462173]'</img>
 
-<div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Derik, but you can call me Attay
+<div style="display: flex; align-items: center;" > <p align="left">Hi! My name is Derik, but you can call me Yuta
   </a>
 </div>
 
