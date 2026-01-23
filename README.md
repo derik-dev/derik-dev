@@ -2,7 +2,7 @@
 
 <img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fderik-dev&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="derik-dev-profile-views">
 
-<h1 align="left">Hi! I'm Attay!</h1>
+<h1 align="left">Hi! I'm Yuta!</h1>
 
 <img> src='[https://tenor.com/pt-BR/view/jujutsu-kaisen-jjk-yuta-gif-8473976251361462173]'</img>
 
