@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi! I'm Yuta!</h1>
 
-<img src="https://media.tenor.com/Sco_c-WcJ4MAAAAC/yuta-okkotsu-jujutsu-kaisen-0.gif" width="100%" alt="Yuta GIF" />
+<img src="[https://media.tenor.com/Sco_c-WcJ4MAAAAC/yuta-okkotsu-jujutsu-kaisen-0.gif]" width="100%" alt="Yuta GIF" />
 
 <div style="display: flex; align-items: center;"> 
   <p align="left">Hi! My name is Derik, but you can call me Yuta</p>
