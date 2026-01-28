@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi! I'm Yuta!</h1>
 
-<img src="[https://i.redd.it/ev8k7qp417lf1.gif]" width="100%" alt="Yuta GIF" />
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=685462005817847436" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 
 <div style="display: flex; align-items: center;"> 
   <p align="left">Hi! My name is Derik, but you can call me Yuta</p>
