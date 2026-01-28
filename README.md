@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi! I'm Yuta!</h1>
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=685462005817847436" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+<img align="right" height="180" src="https://media1.tenor.com/m/M-MGHhwFkYAAAAAd/maki-zennin.gif"  />
 
 <div style="display: flex; align-items: center;"> 
   <p align="left">Hi! My name is Derik, but you can call me Yuta</p>
