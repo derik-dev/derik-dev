@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi! I'm Attay!</h1>
 
-<img align="right" height="180" src="https://media1.tenor.com/m/Qjuql5pH_1EAAAAd/hajime-kashimo-sukuna-vs-hajime.gif"  />
+<img align="right" height="180" src="https://media1.tenor.com/m/X9drSN03UMUAAAAC/satoru-gojo-acenando-satoru-gojo-hello.gif"  />
 
 <div style="display: flex; align-items: center;"> 
   <p align="left">Hi! My name is Derik, but you can call me Attay</p>
