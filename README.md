@@ -2,12 +2,12 @@
 
 <img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fderik-dev&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="derik-dev-profile-views">
 
-<h1 align="left">Hi! I'm Attay!</h1>
+<h1 align="left">Hi! I'm Derik!</h1>
 
 <img align="right" height="180" src="https://media1.tenor.com/m/VR0K7_RCFCkAAAAC/jujutsu-kaisen-jujutsukaisen.gif"  />
 
 <div style="display: flex; align-items: center;"> 
-  <p align="left">Hi! My name is Derik, but you can call me Attay</p>
+  <p align="left">Hi! My name is Derik</p>
 </div>
 
 <p align="center">
