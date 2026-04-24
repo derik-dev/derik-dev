@@ -2,8 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:ff0033,100:050505&text=DERIK%20DEV&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Front-End%20%7C%20Web%20Design%20%7C%20UI%20%7C%20IA%20%7C%20C%C3%B3digo&descAlignY=58&descSize=18" />
 
+<h2 align="center">
+  Desenvolvedor Front-End • Web Design • Interfaces Modernas
+</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=FF0033&center=true&vCenter=true&width=900&lines=Eu+crio+interfaces+que+parecem+sites+de+verdade.;Front-end%2C+design+e+c%C3%B3digo+na+mesma+tela.;Transformando+ideias+em+experimentos+visuais.;Pixels%2C+componentes%2C+layouts+e+muito+caf%C3%A9." />
+  <b>Transformando ideias em sites, layouts e experiências visuais com código.</b>
 </p>
 
 <p align="center">
