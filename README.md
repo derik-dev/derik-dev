@@ -20,7 +20,7 @@
 <tr>
 <td width="58%" valign="top">
 
-<h2>👾 Sobre mim</h2>
+<h2>Sobre mim</h2>
 
 <p>
 Sou um desenvolvedor focado em <b>front-end, interfaces, sites e experiências visuais</b>.<br><br>
@@ -28,11 +28,11 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 </p>
 
 <ul>
-  <li>🎨 Criação de sites modernos e responsivos</li>
-  <li>🧩 Componentização com React e Next.js</li>
-  <li>⚡ Interfaces rápidas, limpas e bem organizadas</li>
-  <li>🖥️ Experimentos com UI, animações e layouts</li>
-  <li>🤖 Uso IA como copiloto para acelerar ideias e protótipos</li>
+  <li>Criação de sites modernos e responsivos</li>
+  <li>Componentização com React e Next.js</li>
+  <li>Interfaces rápidas, limpas e bem organizadas</li>
+  <li>Experimentos com UI, animações e layouts</li>
+  <li>Uso IA como copiloto para acelerar ideias e protótipos</li>
 </ul>
 
 </td>
@@ -46,7 +46,7 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 
 ---
 
-<h2 align="center">🧰 Caixa de Ferramentas</h2>
+<h2 align="center">Caixa de Ferramentas</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,git,github,figma" />
@@ -54,20 +54,20 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 
 ---
 
-<h2 align="center">🎨 Front-End Lab</h2>
+<h2 align="center">Front-End Lab</h2>
 
 <table align="center">
 <tr>
 <td align="center" width="230">
-  <h3>🖼️ Interfaces</h3>
+  <h3>Interfaces</h3>
   <p>Landing pages<br>Dashboards<br>Sites institucionais</p>
 </td>
 <td align="center" width="230">
-  <h3>🧱 Componentes</h3>
+  <h3>Componentes</h3>
   <p>React<br>Next.js<br>UI reutilizável</p>
 </td>
 <td align="center" width="230">
-  <h3>✨ Visual</h3>
+  <h3>Visual</h3>
   <p>Motion<br>Microinterações<br>Design responsivo</p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 
 ---
 
-<h2 align="center">🧪 Atualmente explorando</h2>
+<h2 align="center">Atualmente explorando</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Design%20Systems-ff0033?style=for-the-badge&labelColor=000000" />
@@ -99,7 +99,7 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 
 ---
 
-<h2 align="center">📊 GitHub Lab</h2>
+<h2 align="center">GitHub Lab</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=derik-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0033&icon_color=ff0033" />
@@ -112,39 +112,39 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 
 ---
 
-<h2 align="center">🧨 Coisas que eu não sei fazer</h2>
+<h2 align="center">Coisas que eu não sei fazer</h2>
 
 <table align="center">
 <tr>
 <td align="center" width="260">
-  <h3>🎯 Pinar tiro no Vava</h3>
+  <h3>Pinar tiro no Vava</h3>
   <p>A mira ainda está em beta.</p>
 </td>
 
 <td align="center" width="260">
-  <h3>💋 Beijar de língua</h3>
+  <h3>Beijar de língua</h3>
   <p>Skill social em desenvolvimento.</p>
 </td>
 
 <td align="center" width="260">
-  <h3>🧊 Trair</h3>
+  <h3>Trair</h3>
   <p>Bug moral não encontrado.</p>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="260">
-  <h3>📦 Centralizar a Div</h3>
+  <h3>Centralizar a Div</h3>
   <p>O verdadeiro boss final do CSS.</p>
 </td>
 
 <td align="center" width="260">
-  <h3>🐛 Parar de criar projetos</h3>
+  <h3>Parar de criar projetos</h3>
   <p>Erro impossível de corrigir.</p>
 </td>
 
 <td align="center" width="260">
-  <h3>☕ Dormir cedo</h3>
+  <h3>Dormir cedo</h3>
   <p>Deploy sempre acontece de madrugada.</p>
 </td>
 </tr>
@@ -152,14 +152,14 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 
 ---
 
-<h2 align="center">🎮 Gamer Profile</h2>
+<h2 align="center">Gamer Profile</h2>
 
 <table align="center">
 <tr>
 <td align="center" width="260">
   <img src="https://img.shields.io/badge/Valorant-Competitive-ff0033?style=for-the-badge&labelColor=000000" />
   <br><br>
-  <h3>🎯 Valorant</h3>
+  <h3>Valorant</h3>
   <p>
     <b>Rank atual:</b> Ouro 2<br>
     <b>Estilo:</b> competitivo<br>
@@ -170,7 +170,7 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 <td align="center" width="260">
   <img src="https://img.shields.io/badge/Fortnite-Battle%20Royale-ff0033?style=for-the-badge&labelColor=000000" />
   <br><br>
-  <h3>🏆 Fortnite</h3>
+  <h3>Fortnite</h3>
   <p>
     <b>Peak:</b> Ex-Surreal<br>
     <b>Estilo:</b> agressivo / estratégico<br>
