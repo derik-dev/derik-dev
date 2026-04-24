@@ -112,6 +112,46 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 
 ---
 
+<h2 align="center">🧨 Coisas que eu não sei fazer</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="260">
+  <h3>🎯 Pinar tiro no Vava</h3>
+  <p>A mira ainda está em beta.</p>
+</td>
+
+<td align="center" width="260">
+  <h3>💋 Beijar de língua</h3>
+  <p>Skill social em desenvolvimento.</p>
+</td>
+
+<td align="center" width="260">
+  <h3>🧊 Trair</h3>
+  <p>Bug moral não encontrado.</p>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="260">
+  <h3>📦 Centralizar a Div</h3>
+  <p>O verdadeiro boss final do CSS.</p>
+</td>
+
+<td align="center" width="260">
+  <h3>🐛 Parar de criar projetos</h3>
+  <p>Erro impossível de corrigir.</p>
+</td>
+
+<td align="center" width="260">
+  <h3>☕ Dormir cedo</h3>
+  <p>Deploy sempre acontece de madrugada.</p>
+</td>
+</tr>
+</table>
+
+---
+
 <h2 align="center">🎮 Gamer Profile</h2>
 
 <table align="center">
