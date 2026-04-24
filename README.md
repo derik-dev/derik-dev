@@ -108,11 +108,15 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 
 ---
 
-<h2 align="center">🕹️ Modo Dev</h2>
+<h2 align="center">🎮 Gamer Side</h2>
 
 <p align="center">
-  <b>Design na cabeça. Código na tela. Café do lado.</b><br>
-  Criando, quebrando, testando e melhorando interfaces todos os dias.
+  <img src="https://img.shields.io/badge/Valorant-Ouro%202-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Fortnite-Ex%20Surreal-ff0033?style=for-the-badge&labelColor=000000" />
+</p>
+
+<p align="center">
+  Entre um layout e outro, tentando não tiltar na ranked.
 </p>
 
 <br>
