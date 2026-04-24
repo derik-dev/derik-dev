@@ -1,9 +1,9 @@
-<!-- INSANE PROFILE README PT-BR -->
+<!-- README PROFILE - DEV WEB / DESIGN / NERD VIBE -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:ff0033,100:050505&text=DERIK%20DEV&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=IA%20%7C%20SaaS%20%7C%20Automa%C3%A7%C3%B5es%20%7C%20Full-Stack&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:ff0033,100:050505&text=DERIK%20DEV&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Front-End%20%7C%20Web%20Design%20%7C%20UI%20%7C%20IA%20%7C%20C%C3%B3digo&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=FF0033&center=true&vCenter=true&width=800&lines=Eu+construo+produtos+reais.;Sistemas+com+IA.;SaaS+e+automa%C3%A7%C3%B5es.;Execu%C3%A7%C3%A3o+r%C3%A1pida.+C%C3%B3digo+limpo." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=FF0033&center=true&vCenter=true&width=900&lines=Eu+crio+interfaces+que+parecem+sites+de+verdade.;Front-end%2C+design+e+c%C3%B3digo+na+mesma+tela.;Transformando+ideias+em+experimentos+visuais.;Pixels%2C+componentes%2C+layouts+e+muito+caf%C3%A9." />
 </p>
 
 <p align="center">
@@ -14,25 +14,25 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-<h2>⚡ Sobre mim</h2>
+<h2>👾 Sobre mim</h2>
 
 <p>
-Eu construo <b>aplicações web, SaaS, automações e sistemas com IA</b>.<br><br>
-Meu foco é simples: transformar ideias em produtos reais, rápidos e funcionais.
+Sou um desenvolvedor focado em <b>front-end, interfaces, sites e experiências visuais</b>.<br><br>
+Gosto de transformar ideias em telas reais, misturando código, design, animações, componentes e inteligência artificial.
 </p>
 
 <ul>
-  <li>🧠 Sistemas com IA e agentes</li>
-  <li>🚀 Arquitetura SaaS</li>
-  <li>⚙️ Automações inteligentes</li>
-  <li>🎨 Interfaces modernas e impactantes</li>
-  <li>📈 Produtos voltados para resultado</li>
+  <li>🎨 Criação de sites modernos e responsivos</li>
+  <li>🧩 Componentização com React e Next.js</li>
+  <li>⚡ Interfaces rápidas, limpas e bem organizadas</li>
+  <li>🖥️ Experimentos com UI, animações e layouts</li>
+  <li>🤖 Uso IA como copiloto para acelerar ideias e protótipos</li>
 </ul>
 
 </td>
-<td width="45%" align="center">
+<td width="42%" align="center">
 
 <img width="330" src="https://media1.tenor.com/m/VR0K7_RCFCkAAAAC/jujutsu-kaisen-jujutsukaisen.gif" />
 
@@ -42,37 +42,60 @@ Meu foco é simples: transformar ideias em produtos reais, rápidos e funcionais
 
 ---
 
-<h2 align="center">🧬 Stack Principal</h2>
+<h2 align="center">🧰 Caixa de Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,tailwind,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,git,github,figma" />
 </p>
 
 ---
 
-<h2 align="center">🎨 Front-End Arsenal</h2>
+<h2 align="center">🎨 Front-End Lab</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="230">
+  <h3>🖼️ Interfaces</h3>
+  <p>Landing pages<br>Dashboards<br>Sites institucionais</p>
+</td>
+<td align="center" width="230">
+  <h3>🧱 Componentes</h3>
+  <p>React<br>Next.js<br>UI reutilizável</p>
+</td>
+<td align="center" width="230">
+  <h3>✨ Visual</h3>
+  <p>Motion<br>Microinterações<br>Design responsivo</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,ts,js" /><br><br>
+  <img src="https://img.shields.io/badge/HTML5-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CSS3-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/React-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TailwindCSS-ff0033?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Framer%20Motion-ff0033?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Shadcn/UI-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/UI/UX%20Design-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Responsivo-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Figma-ff0033?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-<h2 align="center">🔥 Foco Atual</h2>
+<h2 align="center">🧪 Atualmente explorando</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Construindo-SaaS-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/IA-Sistemas%20Inteligentes-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Mentalidade-Execução-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Design%20Systems-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Microinterações-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Interfaces%20com%20IA-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Web%20Animations-ff0033?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Lab</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=derik-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0033&icon_color=ff0033" />
@@ -85,19 +108,11 @@ Meu foco é simples: transformar ideias em produtos reais, rápidos e funcionais
 
 ---
 
-<h2 align="center">🏆 Conquistas</h2>
+<h2 align="center">🕹️ Modo Dev</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=derik-dev&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
-</p>
-
----
-
-<h2 align="center">💀 Filosofia</h2>
-
-<p align="center">
-  <b>Construir rápido. Aprender mais rápido ainda. Entregar coisas reais.</b><br>
-  Código não é o objetivo. Produto é.
+  <b>Design na cabeça. Código na tela. Café do lado.</b><br>
+  Criando, quebrando, testando e melhorando interfaces todos os dias.
 </p>
 
 <br>
