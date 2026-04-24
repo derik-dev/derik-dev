@@ -108,15 +108,38 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 
 ---
 
-<h2 align="center">🎮 Gamer Side</h2>
+<h2 align="center">🎮 Gamer Profile</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="260">
+  <img src="https://img.shields.io/badge/Valorant-Competitive-ff0033?style=for-the-badge&labelColor=000000" />
+  <br><br>
+  <h3>🎯 Valorant</h3>
+  <p>
+    <b>Rank atual:</b> Ouro 2<br>
+    <b>Estilo:</b> competitivo<br>
+    <b>Foco:</b> mira, comunicação e decisão rápida
+  </p>
+</td>
+
+<td align="center" width="260">
+  <img src="https://img.shields.io/badge/Fortnite-Battle%20Royale-ff0033?style=for-the-badge&labelColor=000000" />
+  <br><br>
+  <h3>🏆 Fortnite</h3>
+  <p>
+    <b>Peak:</b> Ex-Surreal<br>
+    <b>Estilo:</b> agressivo / estratégico<br>
+    <b>Foco:</b> mecânica, construção e posicionamento
+  </p>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Valorant-Ouro%202-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Fortnite-Ex%20Surreal-ff0033?style=for-the-badge&labelColor=000000" />
-</p>
-
-<p align="center">
-  Entre um layout e outro, tentando não tiltar na ranked.
+  <img src="https://img.shields.io/badge/Mindset-Foco-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Game%20Sense-Estrat%C3%A9gia-ff0033?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Playstyle-Competitivo-ff0033?style=for-the-badge&labelColor=000000" />
 </p>
 
 <br>
