@@ -1,54 +1,58 @@
 <br clear="both">
 
-<img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fderik-dev&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" alt="derik-dev-profile-views">
+<img height="20px" src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fderik-dev&label=profile%20views&labelColor=%236c0000&countColor=%23151515&style=flat" />
 
-<h1 align="left">Hi! I'm Derik!</h1>
+<h1 align="left">Hey, I'm Derik 👋</h1>
 
-<img align="right" height="180" src="https://media1.tenor.com/m/VR0K7_RCFCkAAAAC/jujutsu-kaisen-jujutsukaisen.gif"  />
+<img align="right" height="180" src="https://media1.tenor.com/m/VR0K7_RCFCkAAAAC/jujutsu-kaisen-jujutsukaisen.gif" />
 
-<div style="display: flex; align-items: center;"> 
-  <p align="left">Hi! My name is Derik</p>
-</div>
-
-<p align="center">
-  I am passionate about technology, software development, and artificial intelligence, with a strong focus on building practical and scalable digital solutions. I work with web development, automations, and AI-powered systems, combining technical skills with a strategic mindset to create products that solve real business problems.
+<p align="left">
+I build <b>web apps, automations and AI systems</b>.<br>
+Focused on creating <b>real products</b> — not just code.
 </p>
 
-<p align="center">
-  Currently, I am deepening my knowledge in Full-Stack Development, exploring modern technologies, SaaS architectures, and AI integrations to continuously evolve as a developer and innovator. I am driven by learning, experimentation, and optimization, always seeking to transform ideas into functional, efficient, and impactful solutions. The stacks i using:
-</p>
+---
 
+### ⚡ What I do
+- Build SaaS products
+- Create automation systems
+- Develop AI-powered tools
+- Turn ideas into real projects fast
+
+---
+
+### 🧠 Currently
+- Improving my Full-Stack skills  
+- Working with AI + SaaS  
+- Building scalable systems  
+
+---
+
+### 🚀 Stack
 <div align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="35" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
 </div>
 
-### Experience
+---
 
-<p align="left">
-  I have a background in Business Administration with a strong focus on technology and data-driven solutions. I have several years of experience working with digital products, web development, and automation, where I combine strategic thinking with hands-on technical execution.
-</p>
+### 🧩 About me
+- Focused on building, not just studying  
+- Always testing new ideas  
+- Learning by doing  
 
-<p align="left">
-  Currently, I am studying Systems Analysis and Development and continuously expanding my skills in Full-Stack Development, modern web technologies, and artificial intelligence. I am actively involved in building SaaS products, intelligent systems, and automation workflows, always aiming to create scalable, efficient, and business-oriented solutions.
-</p>
+---
 
-<p align="left">
-  In addition, I contribute to developer communities, collaborate on technical projects, and remain deeply engaged in learning and experimentation to stay at the forefront of technology.
-</p>
+### 🎯 Goal
+Build products that actually make money and solve real problems.
