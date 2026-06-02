@@ -99,92 +99,75 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 
 ---
 
-<h2 align="center">GitHub Lab</h2>
+<h2 align="center">Gráficos de Stacks</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=derik-dev&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=derik-dev&hide_border=false&border=30363d&background=000000&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=donut&hide_border=false&border_color=30363d&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=compact&theme=dark&hide_border=false&border_color=30363d&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=compact&hide_border=false&border_color=30363d&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End-111111?style=for-the-badge&labelColor=000000&color=111111" />
+  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&labelColor=000000&color=111111" />
+  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&labelColor=000000&color=111111" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&labelColor=000000&color=111111" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&labelColor=000000&color=111111" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frameworks-111111?style=for-the-badge&labelColor=000000&color=111111" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&labelColor=000000&color=111111" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&labelColor=000000&color=111111" />
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&labelColor=000000&color=111111" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-111111?style=for-the-badge&labelColor=000000&color=111111" />
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&labelColor=000000&color=111111" />
+  <img src="https://img.shields.io/badge/Agents-111111?style=for-the-badge&labelColor=000000&color=111111" />
+  <img src="https://img.shields.io/badge/Automations-111111?style=for-the-badge&labelColor=000000&color=111111" />
 </p>
 
 ---
 
-<h2 align="center">Coisas que eu não sei fazer</h2>
+<h2 align="center">Stack Principal</h2>
 
 <table align="center">
 <tr>
 <td align="center" width="260">
-  <h3>Pinar tiro no Vava</h3>
-  <p>A mira ainda está em beta.</p>
-</td>
-
-<td align="center" width="260">
-  <h3>Beijar de língua</h3>
-  <p>Skill social em desenvolvimento.</p>
-</td>
-
-<td align="center" width="260">
-  <h3>Trair</h3>
-  <p>Bug moral não encontrado.</p>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="260">
-  <h3>Centralizar a Div</h3>
-  <p>O verdadeiro boss final do CSS.</p>
-</td>
-
-<td align="center" width="260">
-  <h3>Parar de criar projetos</h3>
-  <p>Erro impossível de corrigir.</p>
-</td>
-
-<td align="center" width="260">
-  <h3>Dormir cedo</h3>
-  <p>Deploy sempre acontece de madrugada.</p>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">Gamer Profile</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="260">
-  <img src="https://img.shields.io/badge/Valorant-Competitive-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <br><br>
-  <h3>Valorant</h3>
+  <h3>Front-End</h3>
   <p>
-    <b>Rank atual:</b> Ouro 2<br>
-    <b>Estilo:</b> competitivo<br>
-    <b>Foco:</b> mira, comunicação e decisão rápida
+    HTML<br>
+    CSS<br>
+    JavaScript<br>
+    TypeScript
   </p>
 </td>
 
 <td align="center" width="260">
-  <img src="https://img.shields.io/badge/Fortnite-Battle%20Royale-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <br><br>
-  <h3>Fortnite</h3>
+  <h3>Frameworks</h3>
   <p>
-    <b>Peak:</b> Ex-Surreal<br>
-    <b>Estilo:</b> agressivo / estratégico<br>
-    <b>Foco:</b> mecânica, construção e posicionamento
+    React<br>
+    Next.js<br>
+    TailwindCSS<br>
+    Framer Motion
+  </p>
+</td>
+
+<td align="center" width="260">
+  <h3>IA & Produtos</h3>
+  <p>
+    Agentes de IA<br>
+    Automações<br>
+    SaaS<br>
+    Interfaces inteligentes
   </p>
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mindset-Foco-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Game%20Sense-Estrat%C3%A9gia-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Playstyle-Competitivo-111111?style=for-the-badge&labelColor=000000&color=111111" />
-</p>
 
 <br>
 
