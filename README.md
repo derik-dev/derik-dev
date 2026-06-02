@@ -1,191 +1,167 @@
-<!-- README PROFILE - DEV WEB / DESIGN / NERD VIBE -->
+<!-- README PROFILE - DARK MINIMAL STYLE -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:ff0033,100:050505&text=DERIK%20DEV&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Front-End%20%7C%20Web%20Design%20%7C%20UI%20%7C%20IA%20%7C%20C%C3%B3digo&descAlignY=58&descSize=18" />
+<div align="center">
 
-<h2 align="center">
-  Desenvolvedor Front-End • Web Design • Interfaces Modernas
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0d1117&text=Welcome%20to%20Derik's%20Github&fontColor=c9d1d9&fontSize=32&fontAlignY=45&desc=<%2F>&descAlignY=63&descSize=24" />
 
-<p align="center">
-  <b>Transformando ideias em sites, layouts e experiências visuais com código.</b>
-</p>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fderik-dev&label=VISITAS&labelColor=%23000000&countColor=%23ff0033&style=for-the-badge" />
-</p>
+</div>
 
 <br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://seusite.com)
+[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:seuemail@gmail.com)
+
+</div>
+
+---
+
+<br>
+
+<h2 align="center">☠ About me</h2>
 
 <table>
 <tr>
-<td width="58%" valign="top">
-
-<h2>Sobre mim</h2>
+<td width="65%" valign="top">
 
 <p>
-Sou um desenvolvedor focado em <b>front-end, interfaces, sites e experiências visuais</b>.<br><br>
-Gosto de transformar ideias em telas reais, misturando código, design, animações, componentes e inteligência artificial.
+Hello there! I'm <b>Derik</b>, a developer focused on building modern interfaces, websites, systems and AI-powered digital experiences.
+</p>
+
+<p>
+I enjoy turning ideas into real products using <b>code, design, automation and artificial intelligence</b>.
+</p>
+
+<p>
+Currently working with:
 </p>
 
 <ul>
-  <li>Criação de sites modernos e responsivos</li>
-  <li>Componentização com React e Next.js</li>
-  <li>Interfaces rápidas, limpas e bem organizadas</li>
-  <li>Experimentos com UI, animações e layouts</li>
-  <li>Uso IA como copiloto para acelerar ideias e protótipos</li>
+  <li>Front-End Development</li>
+  <li>Web Design</li>
+  <li>Next.js and React</li>
+  <li>UI/UX Interfaces</li>
+  <li>Artificial Intelligence and Automations</li>
+  <li>SaaS Projects</li>
 </ul>
-
-</td>
-<td width="42%" align="center">
-
-<img width="330" src="https://media1.tenor.com/m/VR0K7_RCFCkAAAAC/jujutsu-kaisen-jujutsukaisen.gif" />
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">Caixa de Ferramentas</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,git,github,figma" />
-</p>
-
----
-
-<h2 align="center">Front-End Lab</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="230">
-  <h3>Interfaces</h3>
-  <p>Landing pages<br>Dashboards<br>Sites institucionais</p>
-</td>
-<td align="center" width="230">
-  <h3>Componentes</h3>
-  <p>React<br>Next.js<br>UI reutilizável</p>
-</td>
-<td align="center" width="230">
-  <h3>Visual</h3>
-  <p>Motion<br>Microinterações<br>Design responsivo</p>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/CSS3-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/React-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Next.js-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/TailwindCSS-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Shadcn/UI-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Figma-ff0033?style=for-the-badge&labelColor=000000" />
-</p>
-
----
-
-<h2 align="center">Atualmente explorando</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Design%20Systems-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Microinterações-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Interfaces%20com%20IA-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Web%20Animations-ff0033?style=for-the-badge&labelColor=000000" />
-</p>
-
----
-
-<h2 align="center">GitHub Lab</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=derik-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0033&icon_color=ff0033" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=derik-dev&theme=radical&hide_border=true&background=0d1117&ring=ff0033&fire=ff0033&currStreakLabel=ff0033" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0033" />
-</p>
-
----
-
-<h2 align="center">Coisas que eu não sei fazer</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="260">
-  <h3>Pinar tiro no Vava</h3>
-  <p>A mira ainda está em beta.</p>
-</td>
-
-<td align="center" width="260">
-  <h3>Beijar de língua</h3>
-  <p>Skill social em desenvolvimento.</p>
-</td>
-
-<td align="center" width="260">
-  <h3>Trair</h3>
-  <p>Bug moral não encontrado.</p>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="260">
-  <h3>Centralizar a Div</h3>
-  <p>O verdadeiro boss final do CSS.</p>
-</td>
-
-<td align="center" width="260">
-  <h3>Parar de criar projetos</h3>
-  <p>Erro impossível de corrigir.</p>
-</td>
-
-<td align="center" width="260">
-  <h3>Dormir cedo</h3>
-  <p>Deploy sempre acontece de madrugada.</p>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">Gamer Profile</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="260">
-  <img src="https://img.shields.io/badge/Valorant-Competitive-ff0033?style=for-the-badge&labelColor=000000" />
-  <br><br>
-  <h3>Valorant</h3>
-  <p>
-    <b>Rank atual:</b> Ouro 2<br>
-    <b>Estilo:</b> competitivo<br>
-    <b>Foco:</b> mira, comunicação e decisão rápida
-  </p>
-</td>
-
-<td align="center" width="260">
-  <img src="https://img.shields.io/badge/Fortnite-Battle%20Royale-ff0033?style=for-the-badge&labelColor=000000" />
-  <br><br>
-  <h3>Fortnite</h3>
-  <p>
-    <b>Peak:</b> Ex-Surreal<br>
-    <b>Estilo:</b> agressivo / estratégico<br>
-    <b>Foco:</b> mecânica, construção e posicionamento
-  </p>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mindset-Foco-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Game%20Sense-Estrat%C3%A9gia-ff0033?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Playstyle-Competitivo-ff0033?style=for-the-badge&labelColor=000000" />
-</p>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050505,50:ff0033,100:050505" />
+<p align="center">
+  ✦ Based in Brazil<br>
+  ✦ Building digital products<br>
+  ✦ Learning, shipping and improving every day
+</p>
+
+</td>
+
+<td width="35%" align="center">
+
+<img width="240" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<br>
+
+<h2 align="center">⚙ Technologies</h2>
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d1117?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0d1117?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/REACT-0d1117?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-0d1117?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-0d1117?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-0d1117?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-0d1117?style=flat-square&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-0d1117?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+---
+
+<br>
+
+<h2 align="center">📊 Statistics</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark&background=000000&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d" />
+
+</div>
+
+---
+
+<br>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=false&border_color=30363d&title_color=ffffff" />
+
+</div>
+
+---
+
+<br>
+
+<h2 align="center">🧪 Current Focus</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="260">
+  <h3>Front-End</h3>
+  <p>Interfaces modernas, responsivas e bem estruturadas.</p>
+</td>
+
+<td align="center" width="260">
+  <h3>AI Systems</h3>
+  <p>Agentes, automações e ferramentas inteligentes.</p>
+</td>
+
+<td align="center" width="260">
+  <h3>SaaS</h3>
+  <p>Produtos digitais com foco em resolver problemas reais.</p>
+</td>
+</tr>
+</table>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Code.+Design.+Automation.+AI.;Building+ideas+into+real+products.;Always+learning.+Always+shipping." />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0d1117&section=footer" />
+
+</div>
