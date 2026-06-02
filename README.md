@@ -38,7 +38,7 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 </td>
 <td width="42%" align="center">
 
-<img width="330" src="https://media.tenor.com/I2Qjg5-_cSYAAAPo/katsutacle-kagurabachi.gif" />
+<img width="330" src="https://media1.tenor.com/m/I2Qjg5-_cSYAAAAd/katsutacle-kagurabachi.gif" />
 
 </td>
 </tr>
