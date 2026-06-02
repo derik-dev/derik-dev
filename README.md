@@ -38,7 +38,7 @@ Gosto de transformar ideias em telas reais, misturando código, design, animaç�
 </td>
 <td width="42%" align="center">
 
-<img width="330" src="https://media1.tenor.com/m/VR0K7_RCFCkAAAAC/jujutsu-kaisen-jujutsukaisen.gif" />
+<img width="330" src="https://media.tenor.com/I2Qjg5-_cSYAAAPo/katsutacle-kagurabachi.mp4" />
 
 </td>
 </tr>
