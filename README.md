@@ -1,174 +1,235 @@
-<!-- README PROFILE - DEV WEB / DESIGN / DARK BLACK & WHITE -->
+<!-- DERIK DEV — README PROFILE -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:111111,100:000000&text=DERIK%20DEV&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Front-End%20%7C%20Web%20Design%20%7C%20UI%20%7C%20IA%20%7C%20C%C3%B3digo&descAlignY=58&descSize=18" />
+<div align="center">
 
-<h2 align="center">
-  Desenvolvedor Front-End • Web Design • Interfaces Modernas
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ffffff&section=header" />
 
-<p align="center">
-  <b>Transformando ideias em sites, layouts e experiências visuais com código.</b>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fderik-dev&label=VISITAS&labelColor=%23000000&countColor=%23ffffff&style=for-the-badge" />
-</p>
+```
+██████╗ ███████╗██████╗ ██╗██╗  ██╗    ██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██╔══██╗██║██║ ██╔╝    ██╔══██╗██╔════╝██║   ██║
+██║  ██║█████╗  ██████╔╝██║█████╔╝     ██║  ██║█████╗  ██║   ██║
+██║  ██║██╔══╝  ██╔══██╗██║██╔═██╗     ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝███████╗██║  ██║██║██║  ██╗    ██████╔╝███████╗ ╚████╔╝ 
+╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝   ╚═════╝ ╚══════╝  ╚═══╝  
+```
 
-<br>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Front-End+Developer+%2F+UI+Designer;Building+beautiful+things+that+sell.;Code+%2B+Design+%2B+AI+%3D+%F0%9F%94%A5;Transformando+ideias+em+produtos+reais." alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/-DISPONÍVEL_PARA_PROJETOS-000000?style=for-the-badge&logo=circle&logoColor=ffffff&labelColor=111111)&nbsp;&nbsp;![](https://img.shields.io/badge/-PETRÓPOLIS,_RJ-000000?style=for-the-badge&logoColor=ffffff&labelColor=111111)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-<h2>Sobre mim</h2>
+<h3>— quem sou eu</h3>
 
-<p>
-Sou um desenvolvedor focado em <b>front-end, interfaces, sites e experiências visuais</b>.<br><br>
-Gosto de transformar ideias em telas reais, misturando código, design, animações, componentes e inteligência artificial.
-</p>
+Desenvolvedor front-end obcecado em criar **interfaces que convertem**.  
+Não faço site feio. Não faço sistema sem alma.
 
-<ul>
-  <li>Criação de sites modernos e responsivos</li>
-  <li>Componentização com React e Next.js</li>
-  <li>Interfaces rápidas, limpas e bem organizadas</li>
-  <li>Experimentos com UI, animações e layouts</li>
-  <li>Uso IA como copiloto para acelerar ideias e protótipos</li>
-</ul>
+Cada projeto que entrego tem:
+— código limpo  
+— design que para as pessoas  
+— lógica que faz sentido  
+
+Atualmente construindo **produtos SaaS com IA** e explorando o limite entre desenvolvimento e design de produto.
+
+<br/>
+
+> *"A interface é o produto.  
+> Se ela é feia, o produto é feio."*
 
 </td>
-<td width="42%" align="center">
+<td width="45%" align="center" valign="middle">
 
-<img width="330" src="https://media1.tenor.com/m/I2Qjg5-_cSYAAAAd/katsutacle-kagurabachi.gif" />
+<img width="320" src="https://media1.tenor.com/m/I2Qjg5-_cSYAAAAd/katsutacle-kagurabachi.gif" style="border-radius: 8px;" />
 
 </td>
 </tr>
 </table>
 
----
-
-<h2 align="center">Caixa de Ferramentas</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,git,github,figma&theme=dark" />
-</p>
+<br/>
 
 ---
 
-<h2 align="center">Front-End Lab</h2>
+<br/>
 
-<table align="center">
+## 〔 Stack 〕
+
+<br/>
+
+<div align="center">
+
+**— BASE —**
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=ffffff)
+
+**— FRAMEWORKS —**
+
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+![Framer](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=ffffff)
+
+**— PRODUTO & IA —**
+
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=ffffff)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=ffffff)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 〔 O que eu faço 〕
+
+<br/>
+
+<table>
 <tr>
-<td align="center" width="230">
-  <h3>Interfaces</h3>
-  <p>Landing pages<br>Dashboards<br>Sites institucionais</p>
+
+<td align="center" width="33%">
+
+```
+╔══════════════════╗
+║  INTERFACES      ║
+╚══════════════════╝
+```
+Landing pages de alto impacto  
+Dashboards modernos  
+Sistemas com identidade  
+
 </td>
-<td align="center" width="230">
-  <h3>Componentes</h3>
-  <p>React<br>Next.js<br>UI reutilizável</p>
+
+<td align="center" width="33%">
+
+```
+╔══════════════════╗
+║  COMPONENTES     ║
+╚══════════════════╝
+```
+React / Next.js  
+UI reutilizável  
+Design System próprio  
+
 </td>
-<td align="center" width="230">
-  <h3>Visual</h3>
-  <p>Motion<br>Microinterações<br>Design responsivo</p>
+
+<td align="center" width="33%">
+
+```
+╔══════════════════╗
+║  PRODUTOS        ║
+╚══════════════════╝
+```
+SaaS com IA  
+Agentes inteligentes  
+Automações reais  
+
 </td>
+
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Shadcn/UI-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&labelColor=000000&color=111111" />
-</p>
+<br/>
 
 ---
 
-<h2 align="center">Atualmente explorando</h2>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Design%20Systems-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Microinterações-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Interfaces%20com%20IA-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Web%20Animations-111111?style=for-the-badge&labelColor=000000&color=111111" />
-</p>
+## 〔 Atualmente 〕
 
----
+<br/>
 
-<h2 align="center">Gráficos de Stacks</h2>
+```javascript
+const derik = {
+  construindo: "PsiCoach AI — copiloto clínico com IA para psicólogos",
+  stack:       ["Next.js", "Supabase", "Groq", "Vercel Pro"],
+  foco:        "Interfaces que vendem + backends que escalam",
+  explorando:  ["Design Systems", "Motion Design", "AI Agents"],
+  status:      "🟢 disponível para freelas e colaborações"
+}
+```
 
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=donut&hide_border=false&border_color=30363d&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
-</p>
-
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=compact&hide_border=false&border_color=30363d&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Front--End-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&labelColor=000000&color=111111" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frameworks-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&labelColor=000000&color=111111" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Agents-111111?style=for-the-badge&labelColor=000000&color=111111" />
-  <img src="https://img.shields.io/badge/Automations-111111?style=for-the-badge&labelColor=000000&color=111111" />
-</p>
+<br/>
 
 ---
 
-<h2 align="center">Stack Principal</h2>
+<br/>
 
-<table align="center">
-<tr>
-<td align="center" width="260">
-  <h3>Front-End</h3>
-  <p>
-    HTML<br>
-    CSS<br>
-    JavaScript<br>
-    TypeScript
-  </p>
-</td>
+## 〔 GitHub Stats 〕
 
-<td align="center" width="260">
-  <h3>Frameworks</h3>
-  <p>
-    React<br>
-    Next.js<br>
-    TailwindCSS<br>
-    Framer Motion
-  </p>
-</td>
+<br/>
 
-<td align="center" width="260">
-  <h3>IA & Produtos</h3>
-  <p>
-    Agentes de IA<br>
-    Automações<br>
-    SaaS<br>
-    Interfaces inteligentes
-  </p>
-</td>
-</tr>
-</table>
+<div align="center">
 
-<br>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=derik-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,50:111111,100:000000" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=derik-dev&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 〔 Contato 〕
+
+<br/>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:seu@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=ffffff)](https://seusite.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ffffff&section=footer" />
+
+<br/>
+
+```
+construído com código, cafeína e obsessão por detalhes.
+```
+
+</div>
