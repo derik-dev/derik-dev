@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Front-End+Developer+%2F+UI+Designer;Building+beautiful+things+that+sell.;Code+%2B+Design+%2B+AI+%3D+%F0%9F%94%A5;Transformando+ideias+em+produtos+reais." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Front-End+Developer+%2F+UI+Designer;Building+beautiful+things+that+sell.;Code+%2B+Design+%2B+AI;Transformando+ideias+em+produtos+reais." alt="Typing SVG" />
 
 </div>
 
@@ -33,16 +33,12 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 <h3>— quem sou eu</h3>
 
 Desenvolvedor front-end obcecado em criar **interfaces que convertem**.  
 Não faço site feio. Não faço sistema sem alma.
 
-Cada projeto que entrego tem:
+Cada projeto que entrego tem:  
 — código limpo  
 — design que para as pessoas  
 — lógica que faz sentido  
@@ -51,17 +47,7 @@ Atualmente construindo **produtos SaaS com IA** e explorando o limite entre dese
 
 <br/>
 
-> *"A interface é o produto.  
-> Se ela é feia, o produto é feio."*
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img width="320" src="https://media1.tenor.com/m/I2Qjg5-_cSYAAAAd/katsutacle-kagurabachi.gif" style="border-radius: 8px;" />
-
-</td>
-</tr>
-</table>
+> *"A interface é o produto. Se ela é feia, o produto é feio."*
 
 <br/>
 
@@ -185,7 +171,7 @@ const derik = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=derik-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=derik-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888" />
 
@@ -195,7 +181,59 @@ const derik = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=derik-dev&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=derik-dev&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=derik-dev&bg_color=000000&color=ffffff&line=444444&point=ffffff&area=true&area_color=222222&hide_border=true" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 〔 Troféus 〕
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=derik-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 〔 Contribuições 3D 〕
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=derik-dev&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&layout=compact" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/derik-dev/derik-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/derik-dev/derik-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/derik-dev/derik-dev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -231,5 +269,9 @@ const derik = {
 ```
 construído com código, cafeína e obsessão por detalhes.
 ```
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=derik-dev&style=flat-square&color=ffffff&label=VISITAS&base=1000)
 
 </div>
