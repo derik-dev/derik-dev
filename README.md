@@ -1,12 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:1a1a1a&text=DERIK%20DEV&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Front-End%20Developer%20%2F%20Product%20Builder&descAlignY=62&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:0a0a0a,100:00E5A0&text=DERIK%20DEV&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=front-end%20developer%20/%20product%20builder&descAlignY=58&descSize=20&animation=fadeIn&descColor=00E5A0" />
 
 </div>
 
+<pre align="center">
+██████╗ ███████╗██████╗ ██╗██╗  ██╗
+██╔══██╗██╔════╝██╔══██╗██║██║ ██╔╝
+██║  ██║█████╗  ██████╔╝██║█████╔╝ 
+██║  ██║██╔══╝  ██╔══██╗██║██╔═██╗ 
+██████╔╝███████╗██║  ██║██║██║  ██╗
+╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+</pre>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Eu+n%C3%A3o+construo+sites.+Construo+produtos.;Interfaces+que+param+o+scroll.;C%C3%B3digo+%2B+Design+%2B+IA+%2B+Vendas.;16+anos.+Sem+desculpas.+S%C3%B3+entrega." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00E5A0&center=true&vCenter=true&width=700&lines=Eu+n%C3%A3o+construo+sites.+Constru%C3%B3+produtos.;Interfaces+que+param+o+scroll.;16+anos.+Sem+desculpa.+S%C3%B3+entrega.;C%C3%B3digo+%2B+design+%2B+IA+%2B+vendas." alt="Typing SVG" />
 
 </div>
 
@@ -14,54 +23,55 @@
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/-DISPONÍVEL_PARA_PROJETOS-ffffff?style=for-the-badge&logoColor=000000&labelColor=000000&color=ffffff" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-PETRÓPOLIS%2C_RJ-000000?style=for-the-badge&labelColor=111111" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-NETPUBLI-000000?style=for-the-badge&labelColor=111111" /></a>
+<img src="https://img.shields.io/badge/DISPON%C3%8DVEL_PARA_PROJETOS-00E5A0?style=for-the-badge&labelColor=000000&color=00E5A0" />
+<img src="https://img.shields.io/badge/PETR%C3%93POLIS%2C_RJ-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" />
+<img src="https://img.shields.io/badge/NETPUBLI-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" />
 
 </div>
 
 <br/>
 
-<div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ffffff&section=header" />
-</div>
+---
 
 <br/>
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="100%">
 
-### `> whoami`
-
-Desenvolvedor front-end e arquiteto de produto, co-fundador da **Netpubli** — cuido de todo o desenvolvimento enquanto meu sócio cuida de vendas e relacionamento com cliente.
-
-Não entrego site bonito que não vende. E não entrego sistema que vende mas é feio. As duas coisas caminham juntas, sempre.
-
-Cada projeto que sai da minha mão tem:
-
-```diff
-+ design que choca — no bom sentido
-+ copy que conecta antes de vender
-+ animação que revela conteúdo, não decora
-+ código que eu entendo linha por linha
-```
-
-Hoje construindo produtos SaaS com IA de ponta a ponta — do primeiro wireframe ao webhook de pagamento em produção.
+<h2>&nbsp;// 001 — QUEM SOU</h2>
 
 </td>
-<td width="40%" valign="top" align="center">
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+Desenvolvedor front-end júnior, cofundador da **Netpubli**. Ainda tô construindo minha base técnica — mas não abro mão do resultado.
+
+Sou eu que desenvolvo tudo, do primeiro wireframe ao webhook de pagamento em produção. Meu sócio cuida de vendas, eu cuido de fazer o produto valer o preço que ele cobra.
+
+<br/>
+
+<img src="https://img.shields.io/badge/-DESIGN_QUE_CHOCA-00E5A0?style=flat-square&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/-C%C3%93PIA_QUE_VENDE-00E5A0?style=flat-square&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/-C%C3%93DIGO_QUE_EU_ENTENDO-00E5A0?style=flat-square&labelColor=000000" />
+
+</td>
+<td width="35%" valign="top" align="center">
 
 ```
-┌─────────────────────────┐
-│                         │
-│   "A interface é        │
-│    o produto.           │
-│                         │
-│    Se ela é feia,       │
-│    o produto é feio."   │
-│                         │
-└─────────────────────────┘
+┌──────────────────────┐
+│                      │
+│   se ninguém para    │
+│   pra olhar,         │
+│                      │
+│   o site já          │
+│   falhou.            │
+│                      │
+└──────────────────────┘
 ```
 
 </td>
@@ -70,48 +80,34 @@ Hoje construindo produtos SaaS com IA de ponta a ponta — do primeiro wireframe
 
 <br/>
 
-<div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ffffff&section=header" />
-</div>
+---
 
 <br/>
 
-## `> stack.json`
+<h2 align="center">// 002 — STACK</h2>
 
 <br/>
 
 <div align="center">
 
-**core**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,vercel,figma,git,nodejs&theme=dark&perline=6" />
 
 <br/><br/>
 
-**produto & infra**
-
-<img src="https://skillicons.dev/icons?i=tailwind,supabase,vercel,figma,nodejs,git&theme=dark" />
-
-<br/><br/>
-
-**ia & automação**
-
-![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logoColor=ffffff&labelColor=111111)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=ffffff&labelColor=111111)
-![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat-square&logoColor=ffffff&labelColor=111111)
-![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat-square&logoColor=ffffff&labelColor=111111)
+<img src="https://img.shields.io/badge/GROQ-00E5A0?style=for-the-badge&labelColor=000000&color=000000" />
+<img src="https://img.shields.io/badge/GSAP-00E5A0?style=for-the-badge&labelColor=000000&color=000000" />
+<img src="https://img.shields.io/badge/LENIS-00E5A0?style=for-the-badge&labelColor=000000&color=000000" />
+<img src="https://img.shields.io/badge/ABACATEPAY-00E5A0?style=for-the-badge&labelColor=000000&color=000000" />
 
 </div>
 
 <br/>
 
-<div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ffffff&section=header" />
-</div>
+---
 
 <br/>
 
-## `> featured_builds`
+<h2 align="center">// 003 — O QUE EU CONSTRUÍ</h2>
 
 <br/>
 
@@ -120,22 +116,22 @@ Hoje construindo produtos SaaS com IA de ponta a ponta — do primeiro wireframe
 <tr>
 <td width="50%" valign="top">
 
-### 01 — PsiCoach AI
-**Copiloto clínico com IA para psicólogos**
+### ▸ PsiCoach AI
+`copiloto clínico com IA para psicólogos`
 
-Case estruturado, memória de paciente entre sessões, transcrição de áudio, detector de contratransferência. Pricing em BRL.
+Case estruturado · memória entre sessões · transcrição de áudio · detector de contratransferência
 
-`Next.js` `Supabase` `Groq` `Whisper` `AbacatePay`
+<sub>Next.js · Supabase · Groq · Whisper</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 02 — VERO
-**Template de e-commerce com IA**
+### ▸ VERO
+`e-commerce template com IA`
 
-Busca inteligente, recomendações por IA, size-finder com avatar SVG. Deploy live na Vercel.
+Busca inteligente · recomendações por IA · size-finder com avatar SVG
 
-`Next.js` `Groq` `Vercel`
+<sub>Next.js · Groq · Vercel</sub>
 
 </td>
 </tr>
@@ -143,22 +139,22 @@ Busca inteligente, recomendações por IA, size-finder com avatar SVG. Deploy li
 <tr>
 <td width="50%" valign="top">
 
-### 03 — Centro Auditivo Macaé
-**Landing pages + sistema de agendamento**
+### ▸ Centro Auditivo Macaé
+`landing pages + agendamento`
 
-Landing cinematográfica que virou upsell de três produtos: mais duas landings e um sistema de agendamento multi-tenant do zero.
+1 landing cinematográfica virou upsell de 3 produtos, incluindo um sistema de agendamento multi-tenant do zero
 
-`Vanilla JS` `Supabase` `AbacatePay` `Vercel Functions`
+<sub>Vanilla JS · Supabase · Vercel Functions</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 04 — derikdev.com.br
-**Portfólio pessoal**
+### ▸ derikdev.com.br
+`portfólio pessoal`
 
-Fundo escuro com glow azul, Barlow Condensed, GSAP + Lenis. Vitrine dos projetos acima.
+Fundo escuro, glow azul, tipografia grande, scroll que conta uma história
 
-`GSAP` `Lenis` `Design System próprio`
+<sub>GSAP · Lenis · Design System próprio</sub>
 
 </td>
 </tr>
@@ -167,54 +163,50 @@ Fundo escuro com glow azul, Barlow Condensed, GSAP + Lenis. Vitrine dos projetos
 
 <br/>
 
-<div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ffffff&section=header" />
-</div>
+---
 
 <br/>
 
-## `> agora`
+<h2 align="center">// 004 — AGORA</h2>
 
 <br/>
 
 ```javascript
 const derik = {
-  construindo:   "Agenda Garantida — SaaS de agendamento para profissionais liberais",
-  aprendendo:    "GSAP + ScrollTrigger + Three.js em profundidade",
-  reforçando:    "fundamentos de HTML/CSS/JS puro, na marra, em projeto real",
-  stack_padrão:  ["Next.js", "TypeScript", "Tailwind", "Supabase", "Vercel"],
-  status:        "🟢 aberto a projetos e colaborações"
+  nivel:        "júnior — forte em HTML/CSS/JS puro, subindo de nível todo dia",
+  construindo:  "Agenda Garantida — SaaS de agendamento pra profissional liberal",
+  aprendendo:   "GSAP + ScrollTrigger + Three.js na prática",
+  modo:         "parceiro de projeto, não só executor",
+  status:       "🟢 aberto a colaborações"
 };
 ```
 
 <br/>
 
-<div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ffffff&section=header" />
-</div>
+---
 
 <br/>
 
-## `> stats`
+<h2 align="center">// 005 — STATS</h2>
 
 <br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=derik-dev&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=999999&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=derik-dev&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00E5A0&text_color=cccccc&icon_color=00E5A0&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derik-dev&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00E5A0&text_color=cccccc&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=derik-dev&hide_border=true&background=0D0D0D&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=999999&currStreakLabel=999999&sideLabels=999999&dates=555555" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=derik-dev&hide_border=true&background=0A0A0A&stroke=00E5A0&ring=00E5A0&fire=00E5A0&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=00E5A0&sideLabels=cccccc&dates=666666" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=derik-dev&bg_color=0d0d0d&color=ffffff&line=444444&point=ffffff&area=true&area_color=1a1a1a&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=derik-dev&bg_color=0a0a0a&color=00E5A0&line=00E5A0&point=ffffff&area=true&area_color=0a3d2c&hide_border=true" />
 
 </div>
 
@@ -231,35 +223,33 @@ const derik = {
 
 <br/>
 
-<div align="center">
-<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ffffff&section=header" />
-</div>
+---
 
 <br/>
 
-## `> contato`
-
-<br/>
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=111111)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=111111)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=111111)](mailto:seu@email.com)
-[![Portfolio](https://img.shields.io/badge/derikdev.com.br-000000?style=for-the-badge&logo=firefox&logoColor=ffffff&labelColor=111111)](https://derikdev.com.br)
-
-</div>
+<h2 align="center">// 006 — CONTATO</h2>
 
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,100:000000&section=footer" />
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00E5A0&labelColor=000000)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5A0&labelColor=000000)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E5A0&labelColor=000000)](mailto:seu@email.com)
+[![Portfolio](https://img.shields.io/badge/derikdev.com.br-000000?style=for-the-badge&logo=firefox&logoColor=00E5A0&labelColor=000000)](https://derikdev.com.br)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5A0,50:0a0a0a,100:000000&section=footer" />
 </div>
 
 <div align="center">
 
-`construído com código, cafeína e obsessão por detalhe.`
+<sub>construído com código, cafeína e obsessão por detalhe.</sub>
 
-![](https://komarev.com/ghpvc/?username=derik-dev&style=flat-square&color=ffffff&label=VISITAS&base=1000)
+![](https://komarev.com/ghpvc/?username=derik-dev&style=flat-square&color=00E5A0&label=VISITAS&base=1000)
 
 </div>
